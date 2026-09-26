@@ -4,7 +4,7 @@ A simple Node.js application created using `npm init`.
 
 ## Author
 
-Soukouna
+ Djiegui Soukouna
 
 ## Technologies
 
